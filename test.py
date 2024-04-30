@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-
+<<<<<<< HEADi
+============================
+===============================
+=============================
 this is my pyton projects 
 =======
 this is my test application page
